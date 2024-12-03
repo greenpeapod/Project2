@@ -1,0 +1,4 @@
+step up 
+step down 
+step left 
+step right 
